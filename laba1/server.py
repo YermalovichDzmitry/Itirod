@@ -14,7 +14,6 @@ history = []
 server.bind(("localhost", 9999))
 
 
-# it will receive and store messages in the queue data
 def receive():
     while True:
         try:
@@ -25,9 +24,7 @@ def receive():
             pass
 
 
-# This method will receive the messages and distribute it between clients
 def broadcast():
-
     while True:
         while not messages.empty():
             message, addr = messages.get()
@@ -55,8 +52,6 @@ def broadcast():
                         history.append(message.decode())
                 except:
                     pass
-
-            # history.append(message.decode())
 
 
 thread1 = threading.Thread(target=receive)

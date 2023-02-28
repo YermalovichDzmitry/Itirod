@@ -31,7 +31,7 @@ Home page
 ![Screnshot](https://github.com/YermalovichDzmitry/Itirod/blob/main/laba2/App_images/home_page.png)
 
 All workouts
-![Screnshot](https://github.com/YermalovichDzmitry/Itirod/blob/main/laba2/App_images/home_page.png)
+![Screnshot](https://github.com/YermalovichDzmitry/Itirod/blob/main/laba2/App_images/all_workouts_page.png)
 
 Pull ups
 ![Screnshot](https://github.com/YermalovichDzmitry/Itirod/blob/main/laba2/App_images/pull_ups.png)
@@ -44,6 +44,15 @@ Burpee
 
 Sit_ups
 ![Screnshot](https://github.com/YermalovichDzmitry/Itirod/blob/main/laba2/App_images/sit_ups.png)
+
+Your workout
+![Screnshot](https://github.com/YermalovichDzmitry/Itirod/blob/main/laba2/App_images/workout_day_page.png)
+
+Your statistic
+![Screnshot](https://github.com/YermalovichDzmitry/Itirod/blob/main/laba2/App_images/statistic_page.png)
+
+Fitness assessment
+![Screnshot](https://github.com/YermalovichDzmitry/Itirod/blob/main/laba2/App_images/fitness_assessment_page.png)
 
 Модели данных.
 1) База данных для хранения пользователей
